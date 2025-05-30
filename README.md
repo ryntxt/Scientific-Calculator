@@ -9,7 +9,7 @@ This UI is inspired by Google Scientific Calculator
 
 - 📐 Full scientific calculations including:
   - Trigonometric functions: `sin()`, `cos()`, `tan()`  
- - Logarithmic and exponential: `ln()`, `log()`, `EXP`, `e`
+  - Logarithmic and exponential: `ln()`, `log()`, `EXP`, `e`
   - Square root, powers (`√`, `xʸ`)  
   - Factorials (`!`) with postfix notation  
   - Constants: π (pi) and e  
